@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@2captcha/captcha-solver": "^1.2.0",
+    "playwright": "^1.47.2"
+  }
+}
